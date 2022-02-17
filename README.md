@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArjunKanojia&theme=dark" />
 </a>
 <a href="https://github.com/ArjunKanojia/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunKanoji&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunKanojia&layout=compact&theme=dark" />
 </a>
 
 
