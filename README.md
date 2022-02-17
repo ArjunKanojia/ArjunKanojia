@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Verma</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arjun Kanojia</h1>
 
 
 ## 🙋‍♂️ About Me
@@ -33,11 +33,11 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   </p>
-<a href="https://github.com/hitmanop/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitmanop&theme=dark" />
+<a href="https://github.com/ArjunKanojia/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArjunKanojia&theme=dark" />
 </a>
-<a href="https://github.com/hitmanop/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitmanop&layout=compact&theme=dark" />
+<a href="https://github.com/ArjunKanojiap/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunKanojiap&layout=compact&theme=dark" />
 </a>
 
 
